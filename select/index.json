@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "base_track": "Ring Ring Ring",
+  "base_artist": "Tyler, The Creator",
+  "createdAt": "2026-02-27T15:14:24.261354Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ring Ring Ring (Ha Ha Hey)",
+      "artist": "De La Soul",
+      "has_synced": false,
+      "path": "select/01_Ring_Ring_Ring_(Ha_Ha_Hey)_De_La_Soul.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ring Ring Ring (Ha Ha Hey)",
+      "artist": "De La Soul",
+      "has_synced": true,
+      "path": "select/02_Ring_Ring_Ring_(Ha_Ha_Hey)_De_La_Soul.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ring, Ring, Ring",
+      "artist": "Brian Setzer",
+      "has_synced": false,
+      "path": "select/03_Ring,_Ring,_Ring_Brian_Setzer.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ring, Ring, Ring",
+      "artist": "Aaron Soul",
+      "has_synced": false,
+      "path": "select/04_Ring,_Ring,_Ring_Aaron_Soul.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ring Ring Ring (Ha Ha Hey)",
+      "artist": "De La Soul",
+      "has_synced": true,
+      "path": "select/05_Ring_Ring_Ring_(Ha_Ha_Hey)_De_La_Soul.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ring Ring Ring",
+      "artist": "De La Soul",
+      "has_synced": true,
+      "path": "select/06_Ring_Ring_Ring_De_La_Soul.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ring!Ring!Ring!",
+      "artist": "Scandal",
+      "has_synced": true,
+      "path": "select/07_Ring!Ring!Ring!_Scandal.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ring! Ring! Ring!",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/08_Ring!_Ring!_Ring!_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ring Ring Ring (Ha Ha Hey) / Piles and Piles of Demo Tapes Bi-Da Miles (Conley's Decision)",
+      "artist": "De La Soul",
+      "has_synced": false,
+      "path": "select/09_Ring_Ring_Ring_(Ha_Ha_Hey)___Piles_and_Piles_of_Demo_Tapes_Bi-Da_Miles_(Conley's_De_La_Soul.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ring, Ring, Ring (Ha Ha Hey) (Party Line mix)",
+      "artist": "De La Soul",
+      "has_synced": false,
+      "path": "select/10_Ring,_Ring,_Ring_(Ha_Ha_Hey)_(Party_Line_mix)_De_La_Soul.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ring, Ring, Ring",
+      "artist": "Joaquín Sabina",
+      "has_synced": true,
+      "path": "select/11_Ring,_Ring,_Ring_Joaquín_Sabina.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ring, ring, ring",
+      "artist": "Joaquin Sabina",
+      "has_synced": true,
+      "path": "select/12_Ring,_ring,_ring_Joaquin_Sabina.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ring Ring Ring (Ha Ha Hey) (album version)",
+      "artist": "De La Soul",
+      "has_synced": false,
+      "path": "select/13_Ring_Ring_Ring_(Ha_Ha_Hey)_(album_version)_De_La_Soul.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ring Ring Ring (Ha Ha Hey) (US Version)",
+      "artist": "De La Soul",
+      "has_synced": false,
+      "path": "select/14_Ring_Ring_Ring_(Ha_Ha_Hey)_(US_Version)_De_La_Soul.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mood Ring",
+      "artist": "Maddie & Tae",
+      "has_synced": true,
+      "path": "select/15_Mood_Ring_Maddie_&_Tae.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Golden Ring",
+      "artist": "George Jones",
+      "has_synced": false,
+      "path": "select/16_Golden_Ring_George_Jones.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Golden Ring",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/17_Golden_Ring_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Golden Ring - Single Version",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/18_Golden_Ring_-_Single_Version_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Golden Ring (Album Version)",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/19_Golden_Ring_(Album_Version)_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Ring On Her Finger, Time On Her Hands",
+      "artist": "Lee Greenwood",
+      "has_synced": false,
+      "path": "select/20_Ring_On_Her_Finger,_Time_On_Her_Hands_Lee_Greenwood.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Ring On Her Finger, Time On Her Hands",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/21_Ring_On_Her_Finger,_Time_On_Her_Hands_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Ring On Her Finger, Time On Her Hands (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/22_Ring_On_Her_Finger,_Time_On_Her_Hands_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Ring of Fire",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/23_Ring_of_Fire_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Ring of Fire",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/24_Ring_of_Fire_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Ring of Fire",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/25_Ring_of_Fire_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Ring of Fire",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/26_Ring_of_Fire_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Ring of Fire (Re-Recorded)",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/27_Ring_of_Fire_(Re-Recorded)_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Ring of Fire (with The Royal Philharmonic Orchestra)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/28_Ring_of_Fire_(with_The_Royal_Philharmonic_Orchestra)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Something with a Ring to It",
+      "artist": "Mark Collie",
+      "has_synced": false,
+      "path": "select/29_Something_with_a_Ring_to_It_Mark_Collie.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Ring Ring",
+      "artist": "MIKA",
+      "has_synced": true,
+      "path": "select/30_Ring_Ring_MIKA.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Ring Ring (bonus track)",
+      "artist": "Mika",
+      "has_synced": true,
+      "path": "select/31_Ring_Ring_(bonus_track)_Mika.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Ring the Bell",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/32_Ring_the_Bell_YACHT.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ring Ring Ring",
+      "artist": "Tyler, The Creator",
+      "has_synced": false,
+      "path": "select/pl_01_Ring_Ring_Ring_Tyler,_The_Creator.txt"
+    }
+  ]
+}
